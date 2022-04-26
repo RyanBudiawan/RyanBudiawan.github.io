@@ -1,15 +1,37 @@
 .jumbotron {
   padding: 6rem 1rem;
-  background-color: grey;
+  background: black;
 }
 #project {
-  background-color: grey;
+  background-color: black;
+}
+
+#about {
+  background-color: #212529;
+}
+#about img {
+  width: 400px;
+  height: 300px;
 }
 
 #resume {
-  background-color: grey;
+  background-color: black;
 }
 
-section {
+#skill {
+  background-color: #212529;
+}
+
+#contact section {
   padding-top: 3rem;
+}
+
+.logo {
+  color: white;
+  font-size: 35px;
+  letter-spacing: 1px;
+  cursor: pointer;
+}
+span {
+  color: aqua;
 }
